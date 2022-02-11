@@ -5,8 +5,3 @@ export const flipCoin = () => {
 
   return x;
 };
-
-export const AssignedObject = {
-  name: "Jane Doe",
-  staticProperty: "Human",
-};
